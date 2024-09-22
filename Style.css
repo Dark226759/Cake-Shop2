@@ -1,0 +1,12 @@
+.text {
+    text-align: center;
+}
+.table {
+    width: 100%;
+ }
+    .table td{
+    padding-bottom: 10px;
+    }
+    .table td:nth-child(2), .table td:nth-child(1){
+        color: pink;
+    }
